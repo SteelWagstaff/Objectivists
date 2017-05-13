@@ -4,12 +4,8 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+This site was designed and built by [Steel Wagstaff](http://steelwagstaff.info) to satisfy the degree requirements for his Ph.D. in English (literary studies) from the University of Madison-Wisconsin.
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jekyll" %} /
-[minima](https://github.com/jekyll/minima)
+I am using [Jekyll](https://jekyllrb.com/) to publish the site, which features a custom theme, called ‘Objectivist,’ which I built for this project. The site incorporates three [Adobe Typekit](http://typekit.com) typefaces: Brandon Grotesque is used for headings, FF Meta Serif is used for the body text, and Prenton is used for block quotes. Except where noted, I produced all of the visual resources on this site using high-resolution scanning equipment.
 
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+Grateful acknowledgments to the estates, families, and literary executors of the poets featured on this site who extended permissions and encouraged (or sometimes, tolerated) this project: Marilyn Kane (now deceased) and Dan and Barbara Nordby [for Carl and Leah Rakosi]; Linda Oppen [for George and Mary Oppen]; Bob and Susan Arnold, Kori Oberle and Marilee Lee at the Hoard Historical Museum, and Amy Lutzke at the Dwight Foster Public Library [for Lorine Niedecker]; Aaron Kerner of Black Sparrow Books [for Charles Reznikoff]; Daphne Williams Fox [for William Carlos Williams]; John Halliday [for Basil Bunting]; and …
